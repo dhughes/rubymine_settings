@@ -1,0 +1,17 @@
+<scheme name="Default copy" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2017-10-19T08:03:35</property>
+    <property name="ide">Ruby</property>
+    <property name="ideVersion">2017.2.4.0.0</property>
+    <property name="modified">2017-11-29T08:32:26</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="dddddd" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
