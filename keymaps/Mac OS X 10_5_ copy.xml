@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
   <action id="ActivateRunToolWindow" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift meta alt a" />
+  </action>
   <action id="CheckinProject" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="meta k" />
