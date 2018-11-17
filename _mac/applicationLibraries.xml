@@ -4763,6 +4763,27 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p648/lib/ruby/gems/2.0.0/gems/sass-rails-5.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="scout_apm (v2.4.20, rbenv: 2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p648/lib/ruby/gems/2.0.0/gems/scout_apm-2.4.20/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p648/lib/ruby/gems/2.0.0/gems/scout_apm-2.4.20/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p648/lib/ruby/gems/2.0.0/gems/scout_apm-2.4.20/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p648/lib/ruby/gems/2.0.0/gems/scout_apm-2.4.20/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p648/lib/ruby/gems/2.0.0/gems/scout_apm-2.4.20/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p648/lib/ruby/gems/2.0.0/gems/scout_apm-2.4.20/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p648/lib/ruby/gems/2.0.0/gems/scout_apm-2.4.20/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p648/lib/ruby/gems/2.0.0/gems/scout_apm-2.4.20/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p648/lib/ruby/gems/2.0.0/gems/scout_apm-2.4.20/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p648/lib/ruby/gems/2.0.0/gems/scout_apm-2.4.20/test" />
+      </excluded>
+    </library>
     <library name="selenium-webdriver (v2.53.3, rbenv: 2.0.0-p648) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
