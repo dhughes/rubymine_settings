@@ -12,8 +12,8 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.rb</mask>
     <mask>*.yml</mask>
     <mask>*Facebook*.rb</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
