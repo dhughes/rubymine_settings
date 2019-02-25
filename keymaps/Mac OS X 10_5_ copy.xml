@@ -17,15 +17,27 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="DecreaseColumnWidth" />
+  <action id="DecrementWindowHeight" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="IncreaseColumnWidth" />
+  <action id="IncrementWindowHeight" />
+  <action id="IncrementWindowWidth" />
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
   </action>
+  <action id="ResetColumnsWidth" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="ResizeToolWindowUp" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
