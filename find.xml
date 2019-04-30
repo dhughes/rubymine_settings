@@ -17,5 +17,6 @@
     <mask>*.yml</mask>
     <mask>*Facebook*.rb</mask>
     <mask>*.rb</mask>
+    <mask>*.erb</mask>
   </component>
 </application>
