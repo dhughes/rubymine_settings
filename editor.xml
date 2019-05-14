@@ -20,6 +20,9 @@
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
+  <component name="RubyEditorOptions">
+    <option name="prolongComments" value="false" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>
