@@ -186,6 +186,25 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/781336391/usr/local/lib/ruby/gems/2.4.0/gems/bundler-1.16.1/man" />
       </excluded>
     </library>
+    <library name="bundler (v1.17.3, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bundler/exe" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bundler/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bundler/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bundler/exe" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bundler/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bundler/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bundler/exe" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bundler/man" />
+      </excluded>
+    </library>
     <library name="bundler (v2.0.2, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1156,6 +1175,34 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/781336391/usr/local/lib/ruby/gems/2.4.0/gems/rubygems-update-2.7.6/test" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/781336391/usr/local/lib/ruby/gems/2.4.0/gems/rubygems-update-2.7.6/util" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2019.1/ruby_stubs/781336391/usr/local/lib/ruby/gems/2.4.0/gems/rubygems-update-2.7.6/bundler" />
+      </excluded>
+    </library>
+    <library name="rubygems-update (v3.0.4, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/util" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bundler" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/hide_lib_for_update" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/util" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bundler" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/hide_lib_for_update" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/util" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubygems-update-3.0.4/bundler" />
       </excluded>
     </library>
     <library name="rugged (v0.28.2, ruby-2.3.7-p456) [gem]" type="rubylib">
