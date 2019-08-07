@@ -92,6 +92,50 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-5.2.3/examples" />
       </excluded>
     </library>
+    <library name="activerecord-import (v0.28.2, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-0.28.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-0.28.2/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-0.28.2/gemfiles" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-0.28.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-0.28.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-0.28.2/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-0.28.2/gemfiles" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-0.28.2/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-0.28.2/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-0.28.2/gemfiles" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-0.28.2/benchmarks" />
+      </excluded>
+    </library>
+    <library name="activerecord-import (v1.0.2, ruby-2.3.7-p456) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-1.0.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-1.0.2/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-1.0.2/gemfiles" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-1.0.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-1.0.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-1.0.2/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-1.0.2/gemfiles" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-1.0.2/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-1.0.2/test" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-1.0.2/gemfiles" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-import-1.0.2/benchmarks" />
+      </excluded>
+    </library>
     <library name="activesupport (v5.1.6, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
